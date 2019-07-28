@@ -6,15 +6,6 @@ Python OpenCV toy projects
 
 ![Object-Tracking-1](/assets/images/object-tracking-1.jpg)  
 
-Feature Matching BruteForce
-    1. Grayscale two images
-    2. Create ORB object
-    3. DetectAndCompute each image
-    4. Set BFMatcher
-    5. bf.match
-    6. sort matches
-    7. drawMatches
-    8. imshow
 1. 주어지는 영상에서 추적할 대상을 ROI를 사용해서 독립적인 이미지로 저장합니다.
 2. 두 영상을 Grayscale로 변환합니다.
 3. ORB object를 만들고 두 영상을 DetectAndCompute합니다.
