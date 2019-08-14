@@ -1,3 +1,6 @@
+주차장에서 자차의 위치를 찾기 위한 핵심적인 두 가지 기능을 독립적으로 구현해보았습니다. 움직이는 물체를 Tracking하고, 원하는 객체를 Detecting하는 기능을 가지고 있습니다. 
+
+
 # opencv_toy_projects
 
 Python OpenCV toy projects
